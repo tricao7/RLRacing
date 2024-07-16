@@ -1,0 +1,29 @@
+{
+    "CarBehaviour": {
+        "checkpoints": [
+            {
+                "steps": 21487,
+                "file_path": "results/ParkCar2/CarBehaviour/CarBehaviour-21487.onnx",
+                "reward": -23840.657877604168,
+                "creation_time": 1711652319.6805289,
+                "auxillary_file_paths": [
+                    "results/ParkCar2/CarBehaviour/CarBehaviour-21487.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 21487,
+            "file_path": "results/ParkCar2/CarBehaviour.onnx",
+            "reward": -23840.657877604168,
+            "creation_time": 1711652319.6805289,
+            "auxillary_file_paths": [
+                "results/ParkCar2/CarBehaviour/CarBehaviour-21487.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.0.post3"
+    }
+}
